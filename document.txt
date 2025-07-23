@@ -1,0 +1,5 @@
+GitHub
+
+	Git subo uma por uma – faço pull request no git.
+	No git – faz o merge, depois confirmo o merge
+	No vscode – faz o git pull pra atualizar. OBS: Se o sistema operacional está bloqueado.
