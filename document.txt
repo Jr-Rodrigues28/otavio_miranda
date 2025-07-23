@@ -3,3 +3,13 @@ GitHub
 	Git subo uma por uma – faço pull request no git.
 	No git – faz o merge, depois confirmo o merge
 	No vscode – faz o git pull pra atualizar. OBS: Se o sistema operacional está bloqueado.
+
+
+Git subo uma por uma – faço pull request no git.
+No vscode git switch 
+
+NO VSCODE
+
+Estou na branch index / git add . / git commit -m “mensagem” / git push origin index / git switch main / git branch (pra confirmar a branch) / git merge index / git push origin main
+
+No vscode – faz o git pull pra atualizar. OBS: Se o sistema operacional está bloqueado.
