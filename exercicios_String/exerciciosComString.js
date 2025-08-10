@@ -15,6 +15,7 @@
 
 
 const nome = prompt('Digite seu nome completo:');
+                // esse += é para atribuir e concatenar ao mesmo tempo 
 document.body.innerHTML += `Seu nome é: <strong>${nome}</strong><br />`;
 document.body.innerHTML += `Seu nome tem <strong>${nome.length}</strong> letras <br />`;
 document.body.innerHTML += `A segunda letra do seu nome é: <strong>${nome[1]}</strong><br />`;
